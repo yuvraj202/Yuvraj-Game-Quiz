@@ -1,0 +1,94 @@
+ body {
+     background-image: url("RB.webp");
+     background-position: top;
+     background-size: cover;
+ }
+
+
+ h1 {
+     color: wheat;
+ }
+
+ .login_div1,
+ .login_div2 {
+     background: white;
+     padding: 10px;
+     float: none;
+     border-radius: 15px;
+ }
+
+
+ #player1_name,
+ #player2_name {
+     display: inline-block;
+     margin-left: 20px;
+     color: aliceblue;
+     font-size: 30px;
+
+ }
+
+ #word {
+     width: 60%;
+ }
+
+ #word_display {
+     letter-spacing: 5px;
+ }
+
+ #output {
+     background: white;
+     border-radius: 10px;
+     border-top: 10px solid #AA4465;
+     padding: 10px;
+     float: none;
+     text-align: left;
+ }
+
+ #player1_score,
+ #player2_score {
+     display: inline-block;
+     margin-left: 20px;
+     color: aliceblue;
+     font-size: 30px;
+ }
+
+ #pl1,
+ #pl2 {
+     font-size: 20px;
+     font-family: monospace;
+     color: skyblue;
+ }
+
+ #p1,
+ #p2 {
+     font-size: 25px;
+     font-family: monospace;
+ }
+#game1
+{
+    font-size: 40px;
+    font-family: cursive;
+    color:white;
+}
+#player1_name_input,#player2_name_input{
+    font-size: 18px;
+    font-family: monospace;
+   
+}
+
+#login
+{
+    font-size: 20px;
+    font-family: cursive;
+    background-color: blue;
+    color: azure;
+}
+
+#div1
+{
+   background-color:bisque;
+}
+#div2
+{
+   background-color:bisque ;
+}

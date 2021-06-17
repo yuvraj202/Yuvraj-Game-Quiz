@@ -1,0 +1,79 @@
+ body {
+     background-image: url(i.jpg);
+     background-position: top;
+     background-size: cover;
+ }
+
+
+ h1 {
+     color: darkslategray;
+ }
+
+
+
+ #word {
+     width: 60%;
+ }
+
+ #word_display {
+     letter-spacing: 5px;
+ }
+
+ #output {
+     background: white;
+     border-radius: 10px;
+     border-top: 5px solid #AA4465;
+     padding: 10px;
+     float: none;
+     text-align: left;
+     width: 50%;
+ }
+
+ #player1_name,
+ #player2_name {
+     display: inline-block;
+     margin-left: 20px;
+     color: whitesmoke;
+     font-size: 30px;
+     font-family: cursive;
+ }
+
+ #player1_score,
+ #player2_score {
+     display: inline-block;
+     margin-left: 20px;
+     font-size: 30px;
+     color: greenyellow;
+
+ }
+
+ #size1 {
+     font-size: 50px;
+     font-family: monospace;
+     color:crimson;
+ }
+
+ #player_question,
+ #player_answer {
+     font-size: 28px;
+     font-family: cursive;
+     color: white;
+ }
+
+ #number1,
+ #number2 {
+     font-size: 22px;
+     font-family: monospace;
+ }
+
+ #nu1,
+ #nu2 {
+     font-size: 25px;
+     font-family: cursive;
+ }
+#button45,#send{
+    font-size: 20px;
+    font-family: cursive;
+    background-color: chartreuse;
+    border: 5px;
+}
